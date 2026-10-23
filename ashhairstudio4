@@ -1,0 +1,90 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>ASH Hair Studio | Delkanda</title>
+<meta name="description" content="Professional hair care, rebonding, keratin, nanoplasty and hair colour at ASH Hair Studio, Delkanda, Sri Lanka.">
+<style>
+*{box-sizing:border-box}
+body{margin:0;font-family:Arial,sans-serif;background:#111;color:#f5f5f5;line-height:1.6}
+header{padding:22px 16px;text-align:center;background:#080808;border-bottom:1px solid #777}
+.logo{font-size:30px;font-weight:bold;letter-spacing:5px;color:#eee}
+header p{margin:0;color:#aaa;letter-spacing:3px;font-size:12px}
+nav{display:flex;justify-content:center;flex-wrap:wrap;gap:20px;padding:14px;background:#202020}
+nav a{color:white;text-decoration:none;font-size:14px}
+.hero{text-align:center;padding:85px 20px;background:linear-gradient(135deg,#333,#080808 70%)}
+.hero h1{font-size:38px;line-height:1.2;margin:0 0 18px}
+.hero p{color:#ddd;max-width:500px;margin:0 auto 25px}
+.btn{display:inline-block;background:#eee;color:#111;padding:13px 22px;border-radius:4px;text-decoration:none;font-weight:bold;margin:5px}
+section{padding:45px 18px;max-width:1000px;margin:auto}
+h2{text-align:center;letter-spacing:2px;margin-bottom:28px}
+.intro{text-align:center;color:#ccc}
+.services{display:grid;grid-template-columns:repeat(auto-fit,minmax(210px,1fr));gap:15px}
+.service{background:#222;border:1px solid #444;padding:23px 18px;text-align:center;border-radius:5px}
+.service h3{color:#eee;margin-top:5px}
+.service p{color:#bbb;font-size:14px}
+.offer{background:#292929;border:1px solid #777;text-align:center;padding:30px 18px;border-radius:6px}
+.offer h3{font-size:26px;margin:5px}
+footer{text-align:center;background:#080808;color:#aaa;padding:25px 15px;font-size:14px}
+footer a{color:#eee}
+</style>
+</head>
+<body>
+<header>
+<div class="logo">ASH</div>
+<p>HAIR STUDIO</p>
+</header>
+<nav>
+<a href="#home">Home</a>
+<a href="#services">Services</a>
+<a href="#offers">Offers</a>
+<a href="#contact">Contact</a>
+</nav>
+<div class="hero" id="home">
+<h1>Your Hair.<br>Your Style.</h1>
+<p>Discover beautiful, healthy-looking hair with professional hair care at ASH Hair Studio.</p>
+<a class="btn" href="https://wa.me/94742154040?text=Hi%20ASH%20Hair%20Studio%2C%20I%20would%20like%20to%20book%20an%20appointment.">BOOK ON WHATSAPP</a>
+</div>
+<section>
+<h2>WELCOME TO ASH</h2>
+<p class="intro">Your beauty, our passion. Enjoy personalised hair services in a modern and welcoming studio in Delkanda, Sri Lanka.</p>
+</section>
+<section id="services">
+<h2>OUR SERVICES</h2>
+<div class="services">
+<div class="service"><h3>Hair Rebonding</h3><p>Smooth, sleek and manageable-looking hair.</p></div>
+<div class="service"><h3>Keratin Treatment</h3><p>Professional frizz-control and hair-smoothing care.</p></div>
+<div class="service"><h3>Nanoplasty</h3><p>Discover a smoother, polished hair finish.</p></div>
+<div class="service"><h3>Hair Botox</h3><p>Deep-conditioning hair treatment services.</p></div>
+<div class="service"><h3>Hair Colour</h3><p>Refresh your look with a beautiful new colour.</p></div>
+<div class="service"><h3>Cut & Blow-dry</h3><p>Haircuts and styling tailored to your look.</p></div>
+</div>
+</section>
+<section id="offers">
+<h2>SPECIAL OFFERS</h2>
+<div class="offer">
+<h3>November Beauty Offers</h3>
+<p>Enjoy selected hair treatment offers this November.</p>
+<p>Message us to check current prices and availability.</p>
+<a class="btn" href="https://wa.me/94742154040?text=Hi%2C%20please%20send%20me%20the%20November%20offers.">VIEW OFFERS</a>
+</div>
+</section>
+<section id="contact">
+<h2>BOOK YOUR APPOINTMENT</h2>
+<p class="intro">Ready for your new look? Contact us to ask about services, prices and appointments.</p>
+<div style="text-align:center;margin-top:22px">
+<p><strong>ASH Hair Studio</strong></p>
+<p>Delkanda, Sri Lanka</p>
+<p>WhatsApp: 074 215 4040</p>
+<a class="btn" href="https://wa.me/94742154040">MESSAGE US ON WHATSAPP</a>
+</div>
+</section>
+<footer>
+<p>ASH HAIR STUDIO</p>
+<p>Professional Hair Care | Delkanda, Sri Lanka</p>
+<p>© 2026 ASH Hair Studio</p>
+</footer>
+</body>
+</html>
